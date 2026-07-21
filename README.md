@@ -65,3 +65,10 @@ ExpenseAI/
 ## 👨‍💻 Author
 
 Aditya Verma
+## 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+## 💸 Add Expense
+
+![Add Expense](screenshots/expense-adding.png)
