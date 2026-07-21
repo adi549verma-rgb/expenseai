@@ -50,3 +50,18 @@ ExpenseAI/
 ├── requirements.txt
 
 └── README.md
+
+## 📈 Future Improvements
+
+- User authentication
+- Cloud database integration
+- OCR bill scanning
+- AI financial advisor
+- Budget recommendation system
+- Mobile application
+
+---
+
+## 👨‍💻 Author
+
+Aditya Verma
